@@ -1,0 +1,11 @@
+body{
+	font-size: 20px;
+	color:#3cb371;
+	background-color: #61122f;
+}
+
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0
+	border:0;
+}
